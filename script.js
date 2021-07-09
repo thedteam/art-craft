@@ -53,10 +53,10 @@ class App {
 
   _loadTextures() {
     const urls = [
-    'https://picsum.photos/id/218/1920/1280',
-    'https://picsum.photos/id/202/1920/1280',
-    'https://picsum.photos/id/173/1920/1280',
-    'https://picsum.photos/id/227/1920/1280'];
+    'assets/img/1.jpg',
+    'assets/img/2.jpg',
+    'assets/img/3.jpg',
+    'assets/img/4.jpg'];
 
 
     urls.forEach((url, index) => {
